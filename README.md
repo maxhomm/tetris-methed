@@ -1,1 +1,1 @@
-#tetris-methed
+#Учебный проект MethEd -- игра Tetris на JavaScript
